@@ -5,4 +5,7 @@ This program takes the faces from two images and compares them. returns boolean 
 Currently the program can be stumped by concealing parts of the face. Which was done by my ma using a hat and sunglasses.
 ![ma trying it](trial1.png)
 
+Then, of course, proof that the program works as intended.
+![not same person](trial3.png)
+
 
